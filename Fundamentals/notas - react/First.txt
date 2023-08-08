@@ -1,0 +1,19 @@
+En react existen dos tipos de exportacion -
+nombrada y por defecto 
+- defecto - indica que ese es el unico componente
+que se puede exportar 
+
+- nombrada - exportamos varios elementos de un archivo 
+
+2:14:20
+
+
+
+
+
+
+
+
+
+
+
